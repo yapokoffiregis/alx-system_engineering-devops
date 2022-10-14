@@ -1,1 +1,1 @@
-this is shell basics repo
+system engineering and devops
